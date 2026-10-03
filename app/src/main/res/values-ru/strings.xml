@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StudyTrack</string>
+    <string name="tasks_title">Менеджер задач</string>
+    <string name="task_list">Список задач</string>
+    <string name="pending">В процессе</string>
+    <string name="completed">Выполнено</string>
+    <string name="all">Все</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="edit_task">Изменить задачу</string>
+    <string name="delete_task">Удалить задачу</string>
+    <string name="mark_complete">Отметить выполненной</string>
+    <string name="mark_incomplete">Вернуть в работу</string>
+    <string name="select_language">Выберите язык</string>
+</resources>

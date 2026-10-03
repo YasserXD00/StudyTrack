@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StudyTrack</string>
+    <string name="tasks_title">タスク管理</string>
+    <string name="task_list">タスク一覧</string>
+    <string name="pending">進行中</string>
+    <string name="completed">完了</string>
+    <string name="all">すべて</string>
+    <string name="add_task">タスクを追加</string>
+    <string name="edit_task">タスクを編集</string>
+    <string name="delete_task">タスクを削除</string>
+    <string name="mark_complete">完了にする</string>
+    <string name="mark_incomplete">未完了に戻す</string>
+    <string name="select_language">言語を選択</string>
+</resources>
